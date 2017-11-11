@@ -1,2 +1,2 @@
 # list-mobile
-Mobile App for List
+Mobile App for List.
