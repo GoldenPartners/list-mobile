@@ -1,8 +1,8 @@
 {
   "name": "list-mobile",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "Juan Pablo Petrozzi",
+  "homepage": "https://github.com/GoldenPartners/list-mobile.git",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
